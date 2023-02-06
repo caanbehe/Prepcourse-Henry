@@ -1,2 +1,2 @@
 # Prepcourse-Henry
-Esto es un repositorio del modulo 2 del prepcourse de Henry
+Esta es una prueba para ver como clonar un proyecto en el escritorio
